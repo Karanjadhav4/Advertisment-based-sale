@@ -73,3 +73,5 @@ To demonstrate skills in:
 
 This project is perfect for beginners learning ML and businesses exploring ad-spend efficiency.
 Your feedback and ideas are always welcome! 🤝✨
+![sales Snap](https://github.com/Karanjadhav4/Advertisment-based-sale/blob/main/Snapshot%20of%20sales.png)
+
